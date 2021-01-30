@@ -1,18 +1,16 @@
-<!DOCTYPE html>
-   <html lang="fr">
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/projet.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    </head>
-    <header >
-        <div class="class1">           
+<div class="class1">           
            <img src="Sans titre.png" alt="">           
         <form class="example" action="/action_page.php" style="margin:auto;max-width:300px">
             <input type="text" placeholder="Search.." name="search2">
             <button type="submit"><i class="fa fa-search"></i></button>
           </form>           
         </div>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/projet.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <header >
         <div class="class2"> 
             <nav>
                 <ul>
@@ -62,16 +60,10 @@
             <tr>
                 <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
                 <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
-                <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
-                <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
             </tr>
             <tr>
-                <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
-                <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
                 <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
                 <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
             </tr>
         </table>
     </body>
-    <footer></footer>
-</html>
