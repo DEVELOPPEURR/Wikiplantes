@@ -1,4 +1,5 @@
-<html lang="fr">
+<!DOCTYPE html>
+   <html lang="fr">
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/projet.css">
