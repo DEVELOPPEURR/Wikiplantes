@@ -11,7 +11,6 @@
             <button type="submit"><i class="fa fa-search"></i></button>
           </form>           
         </div>
-               
         <div class="class2"> 
             <nav>
                 <ul>
@@ -30,8 +29,6 @@
                                 plantes d'intérieur
                             </a>
                         </li>
-                        
-                        
                 </ul>
             </nav>
         </div>   
@@ -58,7 +55,6 @@
                 </td>
             </tr>
         </table><br><br>
-
         <h1>wwwwwwwwwwwwwwwwwwwwww</h1><br><br>
         <table border="1" class="tb" width="100%">
             <tr>
